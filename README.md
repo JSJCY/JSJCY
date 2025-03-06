@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好，我是一名刚接触互联网没多久的大学生，现在想加入GitHub这个开源的大家庭，请大家多多担待。 👋
 
 <!--
 **JSJCY/JSJCY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
